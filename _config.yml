@@ -20,11 +20,9 @@
 
 title: Graveflli
 email: your-email@example.com
+SEOTitle: Graveflli's blog
 description: >- # this means to ignore newlines until "baseurl:"
-  他们说的我一句话也不信,标点符号也是
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  /"他们说的话,我连标点符号都不信."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Graveflli
@@ -36,6 +34,18 @@ theme: minima
 plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
+
+# Featured Tags
+featured-tags: true
+featured-condition-size: 1
+
+# Friends
+friends: [
+    {
+        title: "soloben",
+        href: "https://soloisben.github.io"
+    }
+]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
