@@ -38,7 +38,7 @@
 
 ​	[捕蛇者说](https://pythonhunter.org/)
 
- 	[Go语言编程之旅](https://golang2.eddycjy.com/posts/ch1/01-simple-flag/)
+​	[Go语言编程之旅](https://golang2.eddycjy.com/posts/ch1/01-simple-flag/)
 
 ​	[Real world haskell](https://rwh.readthedocs.io/en/latest/index.html)
 
