@@ -4,9 +4,11 @@
 
 ---
 
-### “Awesome”
+### “That's Awesome”
 
-&nbsp;&nbsp; &nbsp;github有一些库总是以“awesome”开头，而大多这些“awesome”多是站在巨人肩膀上进行总结的库，随便打开一个就是列了一大批方向和技术的“面向广度“的技能树，甚至其中一个库还是awesome in awesome：![shared_ptr](../assets/images/awesomeOfAwesomeInGithub.png)
+&nbsp;&nbsp; &nbsp;github有一些库总是以“awesome”开头(立马想到了某自如)，而大多这些“awesome”多是站在巨人肩膀上进行总结的库，随便打开一个就是列了一大批方向和技术的“面向广度“的技能树，甚至其中一个库还是awesome in awesome：
+
+![awesomeOfAwesomeInGithub](../assets/images/awesomeOfAwesomeInGithub.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;但经过亲身经历，学东西在**深&精**而非**广&疏**，在一个领域上有更高的造诣后将所学进行泛化/举一反三效率更高，且已总结到学习的方法通常也会适用其他场景，即”归纳所知，演绎其他“。
 
@@ -16,19 +18,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;bb了这么多，有些技巧还是可以省一些时间的：
 
+&emsp;
+
 ### cheatSheet
 
-&nbsp;&nbsp;&nbsp;&nbsp;说白了就是把一些自己会用到的又背不过的用到的时候又要找半天的命令总结下来，节省search过程的时间：https://github.com/skywind3000/awesome-cheatsheets
+&nbsp;&nbsp;&nbsp;&nbsp;说白了就是把一些自己会用到的又背不过的用到的时候又要找半天的命令总结下来，节省search过程的时间：
+
+*[awesome-cheatseets](https://github.com/skywind3000/awesome-cheatsheets)*
+
+&emsp;
 
 ### blog
 
-https://github.com/tangqiaoboy/iOSBlogCN
+&nbsp;&nbsp;&nbsp;&nbsp;由于网上的中文独立blog质量还不错，虽然有更新慢和难以找寻的问题，就诞生了一批awesome of blogs:
 
-https://github.com/RSS-Renaissance/awesome-blogCN-feeds
+*[iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;由于网上的中文独立blog质量还不错，虽然有更新慢和难以找寻的问题，就诞生了一批awesome of blogs
+*[awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;（用newsblue/ioreader等工具来订阅RSS是近乎效率最高的阅读方式）
+
+&emsp;
 
 ### blackMagic
 
