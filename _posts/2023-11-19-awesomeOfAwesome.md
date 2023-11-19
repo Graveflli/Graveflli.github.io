@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp; &nbsp;github有一些库总是以“awesome”开头(立马想到了某自如)，而大多这些“awesome”多是站在巨人肩膀上进行总结的库，随便打开一个就是列了一大批方向和技术的“面向广度“的技能树，甚至其中一个库还是awesome in awesome：
 
-![awesomeOfAwesomeInGithub](../assets/images/awesomeOfAwesomeInGithub.png)
+![AltText](/assets/images/awesomeOfAwesomeInGithub.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;但经过亲身经历，学东西在**深&精**而非**广&疏**，在一个领域上有更高的造诣后将所学进行泛化/举一反三效率更高，且已总结到学习的方法通常也会适用其他场景，即”归纳所知，演绎其他“。
 
